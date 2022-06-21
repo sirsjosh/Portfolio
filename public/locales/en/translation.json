@@ -1,0 +1,43 @@
+{
+    "Home":"Home",
+    "Education":"Education & Skills",
+    "Projects":"Projects",
+    "Experience":"Work Experience",
+
+    "FrontEnd":"FrontEnd Web Developer",
+    "Email":"Email Me",
+
+    "About":"About Me",
+    "intro":"I am a 28 year old Zimbabwean Front End developer with 3 years of industry experience building websites and web applications. I specialize in React js and have professional experience working with Back End frameworks such as mongodb and firebase. I'm currently doing D3.JS and Next JS courses.",
+    "Resume":"Resume",
+    "Letter":"Cover Letter",
+
+    "Website":"Website",
+
+    "OnyxText":"This was a project that I took when I was working for Shanghai Cheetah & partners. I created the website from start to finish without the help of anyone. The website consists of 3 pages and I use react router v6 for routing between pages. The site has an option between French and English, this was a little bit difficult to implement ,however I managed to use a Javascript package called i18Next which makes it easier to switch between 2 languages.",
+    "GlobalText":"This was a personal project that I did after learning about Three JS. Its a project that shows the current population figures of all countries in the world. I used basic Three JS materials and Geometries to make the globe and then used WebGL Shaders to implement the hovering effects on the rectangles.",
+    "HarareText":"This project was made by a different company and later on passed to Shanghai Cheetah & Partners for some error handling and maintenece. I was responsible in improving the layout of the cards and basic functionality. Up to this date ,I am still managing and improving the site.",
+    "WavesText":"This was a personal project that I did for a client who just wanted a music web application. I was responsible for the frontend part.",
+    "DojoText":"This app was made recently. I started learning D3 JS 2 months ago and this was one of the projects in the course. The app is a fitness tracker that uses svgs to display data from a Firebase database.",
+    "DonutText":"This app was made recently. I started learning D3 JS 2 months ago and this was one of the projects in the course. The app is a Budget Planner and it shows the proportion of your budget in different colors for easy readability.",
+    "HauntedText":"This project was part of a Three JS course by Bruno Simmons. All the materials and Geometries are from the Three JS library and are low poly which makes the web app run faster as compared to imported 3D models.",
+    "GamertagText":"As a gamer ,I decided to embark in a project that I called Gamertag whereby gamers can check some upcoming games before the release date. All the gamng data comes from an API endpoint that is updated now and then, however I use the free version of the API ,hence sometimes the games might not show due to excessive number of requests per month  ",
+    "PixelText":"This was a project that I took when I was working for Shanghai Cheetah & partners. The client wanted a simple website to display their services and also wanted to be in control of uplaoding pictures and videos ,thats why I chose to use Wix.com to create the site.",
+
+    "Position":"Position",
+    "Period":"Work Period",
+    "Responsibilities":"Responsibilities",
+
+    "Kuailie1":"translate company and customer needs into functional and appealing interactive applications.",
+    "Kuailie2":"Use markup languages like HTML to create user-friendly web pages",
+    "Kuailie3":"Maintain and improve website",
+    "Kuailie4":"Optimize applications for maximum speed",
+    "Kuailie5":"Design mobile-based features",
+    "Kuailie6":"Collaborate with back-end developers and web designers to improve usability",
+    "Kuailie7":"Get feedback from, and build solutions for, users and customers",
+    "Kuailie0":"Responsible for building the client-side of web applications.",
+
+    "HB1":"help implement new fresh, responsive UI for school webapp",
+    "HB2":"migrate school front-end architecture from html to Flutter",
+    "HB3":"deliver high quality, maintainable and cross-platform code"
+}
