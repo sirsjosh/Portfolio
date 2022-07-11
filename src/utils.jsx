@@ -1,5 +1,5 @@
 import { FaReact,FaHtml5,FaCss3,FaBootstrap,FaWix} from 'react-icons/fa';
-import { SiStyledcomponents,SiJavascript,SiThreedotjs,SiRedux,SiSvg} from 'react-icons/si';
+import { SiStyledcomponents,SiJavascript,SiThreedotjs,SiRedux,SiSvg,SiNextdotjs} from 'react-icons/si';
 
 const style={
     fontSize:'30px'
@@ -51,6 +51,21 @@ export const projects=[
            
             {icon:<FaWix style={style} key={'FaWix'}/>,name:'Wix'},
            
+        ]
+
+    },
+    {
+        name:'Copacabana',
+        website:'https://copacabana.vercel.app/',
+        background:'https://res.cloudinary.com/dxxx1wdbm/image/upload/v1657520878/portfolio/Screen_Shot_2022-07-11_at_2.26.48_PM_wrd3oe.png',
+        github:'https://github.com/sirsjosh/ecommerce',
+        text:'CopacabanaText',
+        technologies:[ 
+
+            {icon:<SiNextdotjs style={style} key={'SiNextdotjs'}/>,name:'Next'},
+            {icon:<FaHtml5 style={style}  key={'FaHtml5'}/>,name:'HTML'},
+            {icon:<FaCss3 style={style} key={'FaCss3'}/>,name:'CSS'},
+            {icon:<SiStyledcomponents style={style} key={'SiStyledcomponents'}/>,name:'Styled Components'},
         ]
 
     },
