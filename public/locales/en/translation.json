@@ -23,6 +23,7 @@
     "HauntedText":"This project was part of a Three JS course by Bruno Simmons. All the materials and Geometries are from the Three JS library and are low poly which makes the web app run faster as compared to imported 3D models.",
     "GamertagText":"As a gamer ,I decided to embark in a project that I called Gamertag whereby gamers can check some upcoming games before the release date. All the gamng data comes from an API endpoint that is updated now and then, however I use the free version of the API ,hence sometimes the games might not show due to excessive number of requests per month  ",
     "PixelText":"This was a project that I took when I was working for Shanghai Cheetah & partners. The client wanted a simple website to display their services and also wanted to be in control of uplaoding pictures and videos ,thats why I chose to use Wix.com to create the site.",
+    "CopacabanaText":"This is my first Next.js app. I have been learning about Next.js for the past few months and I managed to build this simple ecommerce app. The app is still a not fully functional but I'm planning to make it functional soon.",
 
     "Position":"Position",
     "Period":"Work Period",
